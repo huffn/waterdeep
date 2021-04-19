@@ -1,0 +1,60 @@
+site_name: Waterdeep Dragon Heist
+nav:
+  - Home: index.md
+  - Handouts:
+    - Volo's Waterdeep Enchiridion: Enchiridion.md
+    - The Code Legal: Code Legal.md
+  - ...
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  language: en
+  palette:
+    primary: black
+  features:
+    - navigation.expand 
+    - navigation.tabs
+extra:
+  generator: false
+markdown_extensions: 
+  - attr_list
+  - pymdownx.tabbed
+  - nl2br
+  - toc:
+      toc_depth: "1-1"
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.striphtml
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+plugins:
+  - search
+  - awesome-pages
+  - roamlinks 
+    #- autolinks 
+  - exclude:
+      glob:
+        - "*.tmp"
+        - "*.pdf"
+        - "*.gz"
+        - "*.hidden.md"
+      regex:
+        - '.*\.(tmp|bin|tar)$'

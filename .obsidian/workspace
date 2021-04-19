@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5962fa7c6166ff0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "edac7298b0e4e1ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Dramatis Personae/Vela Aljemal.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4127601f2777e81",
+    "type": "split",
+    "children": [
+      {
+        "id": "579bc08260c44de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2926354ceb7743d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f104f58f9f056b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Bregan-D'aerthe",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d14c7d4a5ae444e",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f8992b2915cd62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226e28c74fa2b572",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Dramatis Personae/Vela Aljemal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "edac7298b0e4e1ab",
+  "lastOpenFiles": [
+    "Vela Aljemal.md",
+    "Aria Cavantina.md",
+    "Hyustus Staget.md",
+    "Elzerina Cassalanter.md",
+    "Terenzio Cassalanter.md",
+    "Victorio Cassalanter.md",
+    "Ammalia Cassalanter.md",
+    "Fivel Nishi.md",
+    "Chernok.md",
+    "Maxeene.md"
+  ]
+}
