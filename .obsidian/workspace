@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Dramatis Personae/Vela Aljemal.md",
+            "file": "docs/Enchiridion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Dramatis Personae/Vela Aljemal.md",
+                "file": "docs/Enchiridion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "edac7298b0e4e1ab",
   "lastOpenFiles": [
+    "docs/Enchiridion.md",
+    "docs/Code Legal.md",
     "Vela Aljemal.md",
     "Aria Cavantina.md",
     "Hyustus Staget.md",
@@ -95,8 +97,6 @@
     "Terenzio Cassalanter.md",
     "Victorio Cassalanter.md",
     "Ammalia Cassalanter.md",
-    "Fivel Nishi.md",
-    "Chernok.md",
-    "Maxeene.md"
+    "Fivel Nishi.md"
   ]
 }

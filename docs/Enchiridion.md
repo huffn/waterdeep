@@ -1,3 +1,6 @@
+---
+disqus: ""
+---
 ![[9001.png]]
 # Volo’s Waterdeep Enchiridion
 Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city — smiled over by none other than its Open Lord, Lady Laeral Silverhand. This chapbook will serve you well until my seminal work on the subject, _Volo’s Guide to Waterdeep_ — sadly long out of print, but now a tome prized by collectors — can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they’ll soon have copies of the new edition for sale!
