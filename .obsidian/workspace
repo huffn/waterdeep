@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Enchiridion.md",
+            "file": "docs/Dramatis Personae/Malcal Relet.hidden.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Enchiridion.md",
+                "file": "docs/Dramatis Personae/Malcal Relet.hidden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edac7298b0e4e1ab",
   "lastOpenFiles": [
+    "docs/Dramatis Personae/Untitled.md",
+    "docs/Dramatis Personae/Dalakhar.md",
+    "docs/Dramatis Personae/Gerald Brisby.md",
+    "docs/index.md",
     "docs/Enchiridion.md",
     "docs/Code Legal.md",
     "Vela Aljemal.md",
     "Aria Cavantina.md",
     "Hyustus Staget.md",
-    "Elzerina Cassalanter.md",
-    "Terenzio Cassalanter.md",
-    "Victorio Cassalanter.md",
-    "Ammalia Cassalanter.md",
-    "Fivel Nishi.md"
+    "Elzerina Cassalanter.md"
   ]
 }
