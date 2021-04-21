@@ -1,4 +1,5 @@
 site_name: Waterdeep Dragon Heist
+site_url: https://dnd.nathanhuff.net
 nav:
   - Home: index.md
   - Handouts:
@@ -18,6 +19,7 @@ theme:
     - navigation.tabs
 extra:
   generator: false
+  disqus: waterdeepdragonheist
 markdown_extensions: 
   - attr_list
   - pymdownx.tabbed
